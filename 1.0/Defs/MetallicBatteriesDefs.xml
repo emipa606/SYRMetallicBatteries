@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
-<!-- Designator Dropdown Group Def for batteries-->
+  <!-- Designator Dropdown Group Def for batteries-->
   <DesignatorDropdownGroupDef>
     <defName>Batteries</defName>
   </DesignatorDropdownGroupDef>
-  
   <ThingDef ParentName="BuildingBase">
     <defName>Battery_Silver</defName>
     <label>silver battery</label>
@@ -55,7 +53,7 @@
         <shortCircuitInRain>true</shortCircuitInRain>
         <transmitsPower>true</transmitsPower>
       </li>
-      <li Class="CompProperties_Breakdownable"/>
+      <li Class="CompProperties_Breakdownable" />
     </comps>
     <terrainAffordanceNeeded>Medium</terrainAffordanceNeeded>
     <designationCategory>Power</designationCategory>
@@ -65,7 +63,6 @@
       <li>MetallicBatteriesImproved</li>
     </researchPrerequisites>
   </ThingDef>
-  
   <ThingDef ParentName="BuildingBase">
     <defName>Battery_Gold</defName>
     <label>golden battery</label>
@@ -114,7 +111,7 @@
         <efficiency>0.9</efficiency>
         <transmitsPower>true</transmitsPower>
       </li>
-      <li Class="CompProperties_Breakdownable"/>
+      <li Class="CompProperties_Breakdownable" />
     </comps>
     <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
     <designationCategory>Power</designationCategory>
@@ -124,7 +121,6 @@
       <li>MetallicBatteriesSpecialized</li>
     </researchPrerequisites>
   </ThingDef>
-  
   <ThingDef ParentName="BuildingBase">
     <defName>Battery_Plasteel</defName>
     <label>plasteel battery</label>
@@ -182,7 +178,6 @@
       <li>MetallicBatteriesSpecialized</li>
     </researchPrerequisites>
   </ThingDef>
-  
   <ThingDef ParentName="BuildingBase">
     <defName>Battery_Uranium</defName>
     <label>uranium battery</label>
@@ -251,7 +246,6 @@
       <li>MetallicBatteriesSpecialized</li>
     </researchPrerequisites>
   </ThingDef>
-  
   <ThingDef ParentName="BuildingBase">
     <defName>Battery_Advanced</defName>
     <label>advanced battery</label>
@@ -309,8 +303,7 @@
       <li>MetallicBatteriesSpecialized</li>
     </researchPrerequisites>
   </ThingDef>
-
-<ThingDef ParentName="BuildingBase">
+  <ThingDef ParentName="BuildingBase">
     <defName>Battery_Vanometric</defName>
     <label>vanometric battery</label>
     <thingClass>Building_Battery</thingClass>
@@ -365,5 +358,4 @@
       <li>ExoticBuilding</li>
     </tradeTags>
   </ThingDef>
-
 </Defs>

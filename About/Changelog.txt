@@ -1,0 +1,5 @@
+# Changelog for SYRMetallicBatteries
+
+1.5.1 - Updated for 1.5, fixed colored power-bar
+Used DeepL to update translations for ChineseSimplified, French, German
+

@@ -106,7 +106,7 @@
       <Flammability>0.2</Flammability>
       <Beauty>20</Beauty>
     </statBases>
-    <description>A battery enhanced with gold for optimal efficiency. Gold batteries will short-circuit in rain and can break down, but generate no heat.\n\nCapacity: 750 Wd\nEfficiency: 100%</description>
+    <description>A battery enhanced with gold for optimal efficiency. Gold batteries will short-circuit in rain and can break down, but generate no heat.\n\nCapacity: 750 Wd\nEfficiency: 90%</description>
     <descriptionHyperlinks>
       <ThingDef>Battery</ThingDef>
       <ThingDef>Battery_Silver</ThingDef>

@@ -8,9 +8,9 @@ public static class GenDraw_DrawFillableBar
 {
     public static void Prefix(ref GenDraw.FillableBarRequest r)
     {
-        if (Building_Battery_DrawAt.BatteryBarFilledMateralOverride != null)
+        if (HarmonyPatches.BatteryBarFilledMateralOverride != null)
         {
-            r.filledMat = Building_Battery_DrawAt.BatteryBarFilledMateralOverride;
+            r.filledMat = HarmonyPatches.BatteryBarFilledMateralOverride;
         }
     }
 }

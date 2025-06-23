@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1142360151
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eb52209c0bcc27b5bbe9426987101b83
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: eb52209c0bcc27b5bbe9426987101b83
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.SYRMetallicBatteries/Textures/Things/Building/Power/Battery_Vanometric_north.png
+- Assets/Data/Mlie.SYRMetallicBatteries/Textures/Things/Building/Power/Battery_Uranium_east.png
+- Assets/Data/Mlie.SYRMetallicBatteries/Textures/Things/Building/Power/Battery_Silver_east.png
+- Assets/Data/Mlie.SYRMetallicBatteries/Textures/Things/Building/Power/Battery_Plasteel_north.png
+- Assets/Data/Mlie.SYRMetallicBatteries/Textures/Things/Building/Power/Battery_Gold_north.png
+- Assets/Data/Mlie.SYRMetallicBatteries/Textures/Things/Building/Power/Battery_Vanometric_east.png
+- Assets/Data/Mlie.SYRMetallicBatteries/Textures/Things/Building/Power/Battery_east.png
+- Assets/Data/Mlie.SYRMetallicBatteries/Textures/Things/Building/Power/Battery_Uranium_north.png
+- Assets/Data/Mlie.SYRMetallicBatteries/Textures/Things/Building/Power/Battery_Advanced_north.png
+- Assets/Data/Mlie.SYRMetallicBatteries/Textures/Things/Building/Power/Battery_Gold_east.png
+- Assets/Data/Mlie.SYRMetallicBatteries/Textures/Things/Building/Power/Battery_Plasteel_east.png
+- Assets/Data/Mlie.SYRMetallicBatteries/Textures/Things/Building/Power/Battery_Silver_north.png
+- Assets/Data/Mlie.SYRMetallicBatteries/Textures/Things/Building/Power/Battery_north.png
+- Assets/Data/Mlie.SYRMetallicBatteries/Textures/Things/Building/Power/Battery_Advanced_east.png
+Dependencies: []

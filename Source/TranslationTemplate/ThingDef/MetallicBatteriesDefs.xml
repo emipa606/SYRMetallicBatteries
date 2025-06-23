@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: advanced battery -->
+  <Battery_Advanced.label>advanced battery</Battery_Advanced.label>
+  <!-- EN: A battery enhanced with advanced components and uranium for optimal capacity efficiency and weight. Advanced batteries will not short-circuit in rain, not break down, and generate no heat.\n\nCapacity: 1250 Wd\nEfficiency: 90% -->
+  <Battery_Advanced.description>A battery enhanced with advanced components and uranium for optimal capacity efficiency and weight. Advanced batteries will not short-circuit in rain, not break down, and generate no heat.
+
+Capacity: 1250 Wd
+Efficiency: 90%</Battery_Advanced.description>
+  <!-- EN: golden battery -->
+  <Battery_Gold.label>golden battery</Battery_Gold.label>
+  <!-- EN: A battery enhanced with gold for optimal efficiency. Gold batteries will short-circuit in rain and can break down, but generate no heat.\n\nCapacity: 750 Wd\nEfficiency: 90% -->
+  <Battery_Gold.description>A battery enhanced with gold for optimal efficiency. Gold batteries will short-circuit in rain and can break down, but generate no heat.
+
+Capacity: 750 Wd
+Efficiency: 90%</Battery_Gold.description>
+  <!-- EN: plasteel battery -->
+  <Battery_Plasteel.label>plasteel battery</Battery_Plasteel.label>
+  <!-- EN: A battery enhanced with plasteel for enhanced capacity, durability and weight. Plasteel batteries will not short-circuit in rain, not break down, and generate no heat.\n\nCapacity: 1250 Wd\nEfficiency: 50% -->
+  <Battery_Plasteel.description>A battery enhanced with plasteel for enhanced capacity, durability and weight. Plasteel batteries will not short-circuit in rain, not break down, and generate no heat.
+
+Capacity: 1250 Wd
+Efficiency: 50%</Battery_Plasteel.description>
+  <!-- EN: silver battery -->
+  <Battery_Silver.label>silver battery</Battery_Silver.label>
+  <!-- EN: A battery enhanced with silver for improved capacity and efficiency. Silver batteries will short-circuit in rain, can break down, but generate no heat.\n\nCapacity: 1000 Wd\nEfficiency: 70% -->
+  <Battery_Silver.description>A battery enhanced with silver for improved capacity and efficiency. Silver batteries will short-circuit in rain, can break down, but generate no heat.
+
+Capacity: 1000 Wd
+Efficiency: 70%</Battery_Silver.description>
+  <!-- EN: uranium battery -->
+  <Battery_Uranium.label>uranium battery</Battery_Uranium.label>
+  <!-- EN: A battery enhanced with uranium. It has exceptional capacity and efficiency, but loses 1% efficiency for every 1°C it is above 20°C (or every 1.8°F above 68°F). Uranium batteries will not break down, but can short-circuit in rain and generate heat. They will also violently explode if destroyed. \n\nCapacity: 1500 Wd\nEfficiency: 90% -->
+  <Battery_Uranium.description>A battery enhanced with uranium. It has exceptional capacity and efficiency, but loses 1% efficiency for every 1°C it is above 20°C (or every 1.8°F above 68°F). Uranium batteries will not break down, but can short-circuit in rain and generate heat. They will also violently explode if destroyed. 
+
+Capacity: 1500 Wd
+Efficiency: 90%</Battery_Uranium.description>
+  <!-- EN: vanometric battery -->
+  <Battery_Vanometric.label>vanometric battery</Battery_Vanometric.label>
+  <!-- EN: A battery developed by archotechs. It is believed it stores energy in the quantum foam and can extract it from there without any loss. Vanometric batteries will not short-circuit in rain, not break down, and generate no heat.\n\nCapacity: 2500 Wd\nEfficiency: 100% -->
+  <Battery_Vanometric.description>A battery developed by archotechs. It is believed it stores energy in the quantum foam and can extract it from there without any loss. Vanometric batteries will not short-circuit in rain, not break down, and generate no heat.
+
+Capacity: 2500 Wd
+Efficiency: 100%</Battery_Vanometric.description>
+</LanguageData>

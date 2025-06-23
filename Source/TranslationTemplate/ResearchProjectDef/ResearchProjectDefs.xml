@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: improved battery -->
+  <MetallicBatteriesImproved.label>improved battery</MetallicBatteriesImproved.label>
+  <!-- EN: Build silver batteries for storing electricity more efficiently. -->
+  <MetallicBatteriesImproved.description>Build silver batteries for storing electricity more efficiently.</MetallicBatteriesImproved.description>
+  <!-- EN: specialized batteries -->
+  <MetallicBatteriesSpecialized.label>specialized batteries</MetallicBatteriesSpecialized.label>
+  <!-- EN: Build specialized batteries to get the most out of specific attributes. -->
+  <MetallicBatteriesSpecialized.description>Build specialized batteries to get the most out of specific attributes.</MetallicBatteriesSpecialized.description>
+</LanguageData>

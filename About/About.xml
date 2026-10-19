@@ -12,6 +12,7 @@
     <li>1.4</li>
     <li>1.5</li>
     <li>1.6</li>
+    <li>1.7</li>
   </supportedVersions>
   <modDependencies>
     <li>
@@ -24,62 +25,62 @@
   <loadAfter>
     <li>brrainz.harmony</li>
   </loadAfter>
-  <description>[img]https://i.imgur.com/buuPQel.png[/img]
+  <description>[img]https://img.litet.net/logos/Info.png[/img]
 Update of Syrchaliss mod https://steamcommunity.com/sharedfiles/filedetails/?id=1489425285
 
-[img]https://i.imgur.com/pufA0kM.png[/img]
+[img]https://img.litet.net/logos/Notice.png[/img]
 
 [table]
-    [tr][td][url=https://dsc.gg/mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td] [td][url=https://github.com/emipa606/SYRMetallicBatteries][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [tr][td][url=https://discord.gg/h5TY6DA][img]https://img.litet.net/logos/Discord.png[/img][/url][/td] [td][url=https://github.com/emipa606/SYRMetallicBatteries][img]https://img.litet.net/logos/Github.png[/img][/url][/td]
     [/tr]
     [tr]
-        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
-        [td][img]https://i.imgur.com/Be8E2qJ.png[/img][/td]
+        [td][img]https://img.litet.net/logos/SafeToAdd.png[/img][/td]
+        [td][img]https://img.litet.net/logos/RemoveMayWork.png[/img][/td]
     [/tr]
 [/table]
 	
-[img]https://i.imgur.com/Z4GOv8H.png[/img]
+[img]https://img.litet.net/logos/OriginalDescription.png[/img]
 [h2][b]Adds batteries made of different metals with different stats[/b][/h2]
 
 
-[img]https://i.imgur.com/s8csNp7.png[/img]
+[img]https://img.litet.net/s8csNp7.png[/img]
 
 Seven batteries are added, each requiring different materials and providing different benefits. Some of them are locked behind additional research. The uranium battery even comes with special mechanics, watch out!
 
 
 
-[img]https://i.imgur.com/eiAAg6q.png[/img]
+[img]https://img.litet.net/eiAAg6q.png[/img]
 
-[img]https://i.imgur.com/YFPbsXe.png[/img] Steel battery
+[img]https://img.litet.net/YFPbsXe.png[/img] Steel battery
 The vanilla battery, costs more steel but also has higher capacity.
 
-[img]https://i.imgur.com/5ACtbeg.png[/img] Silver battery
+[img]https://img.litet.net/5ACtbeg.png[/img] Silver battery
 Improved in all areas, costs silver in addition to base materials. Very cost-efficient.
 
-[img]https://i.imgur.com/TUPmdfn.png[/img] Golden battery
+[img]https://img.litet.net/TUPmdfn.png[/img] Golden battery
 High efficiency, normal capacity. Allows you to have less energy production overall due to high efficiency.
 
-[img]https://i.imgur.com/wU8zGZO.png[/img] Plasteel battery
+[img]https://img.litet.net/wU8zGZO.png[/img] Plasteel battery
 Normal efficiency, high capacity. Very light, does not short-circuit in rain and can not break down. Perfect to power deep drills or to have energy on caravan expeditions.
 
-[img]https://i.imgur.com/g59UIb0.png[/img] Uranium battery
+[img]https://img.litet.net/g59UIb0.png[/img] Uranium battery
 High efficiency, very high capacity. Unlike the previous ones this one has incredibly high stats for it's cost. It can however short-circuit in rain, explodes violently when damaged and generates a lot of heat. Temperatures above 20°C (68°F) will cause the efficiency to drop.
 
-[img]https://i.imgur.com/xdBbq2J.png[/img] Advanced battery
+[img]https://img.litet.net/xdBbq2J.png[/img] Advanced battery
 High efficiency, high capacity. Ultimate constructable battery, does not short-circuit in rain and does never break down.
 
-[img]https://i.imgur.com/UadfWaV.png[/img] Vanometric battery
+[img]https://img.litet.net/UadfWaV.png[/img] Vanometric battery
 Like the vanometric power cell, this one can only be found, not constructed. It has supreme stats, but also high market value, making it expensive to buy and attractive to raiders.
 Capacity: 2500
 Efficiency: 100%
 
 
-Balancing spreadsheet: https://i.imgur.com/fvZIPuH.png
-[img]https://i.imgur.com/fvZIPuH.png[/img]
+Balancing spreadsheet: https://img.litet.net/fvZIPuH.png
+[img]https://img.litet.net/fvZIPuH.png[/img]
 
 
 
-[img]https://i.imgur.com/x3y72Eg.png[/img]
+[img]https://img.litet.net/x3y72Eg.png[/img]
 
 [h3][b]Savegames:[/b][/h3]
 [list][*]Adding: Safe
@@ -92,22 +93,22 @@ Balancing spreadsheet: https://i.imgur.com/fvZIPuH.png
 
 
 
-[img]https://i.imgur.com/1YxHVGs.png[/img]
+[img]https://img.litet.net/1YxHVGs.png[/img]
 
 [quote][h3][b][url=https://steamcommunity.com/workshop/filedetails/?id=1474000866]Syrchalis' Mods[/url][/b][/h3][/quote]
 Collection of my mods for RimWorld
 
-[img]https://i.imgur.com/PwoNOj4.png[/img]
+[img]https://img.litet.net/logos/ReportingIssues.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
-[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] or the standalone [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader[/url] and command Ctrl+F12
+[*] Always post your log using the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Log Uploader[/url]
 [*] For best support, please use the Discord-channel for error-reporting.
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
 [*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
 [/list] 
 
-[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3345223519][img]https://img.shields.io/github/v/release/emipa606/SYRMetallicBatteries?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | tags: batteries,  efficiency</description>
-  <modVersion IgnoreIfNoMatchingField="True">1.6.0</modVersion>
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3345223519][img]https://img.shields.io/github/v/release/emipa606/SYRMetallicBatteries?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | efficiency, batteries</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.7.0</modVersion>
 </ModMetaData>
